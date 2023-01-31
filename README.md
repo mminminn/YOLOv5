@@ -25,7 +25,7 @@ pip install -r requirements.txt
 # 1、准备
 1. 我采用的是Anaconda+Pycharm的配置，和yolov8文章中的环境一模一样
 2. 下载yolov7：https://github.com/WongKinYiu/yolov7
-3. 下载权重yolov7.pt，并放在仓库主路径上
+3. 下载权重yolov7.pt，并放在仓库主路径上（权重下载后就是压缩包.zip的形式，不必解压）
 4. 修改数据集中的data.yaml（具体在yolov8笔记有提到）
 5. 把数据集中的data.yaml放在data中
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2e6b45962cc84b6ca9aed4d3731e3e61.png)
